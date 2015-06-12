@@ -10,6 +10,6 @@ http://blog.chain.com/post/95218566791/the-math-behind-bitcoin
 #Elixir Blockchain
 https://github.com/justinlynn/bitcoin-ex
 https://github.com/BumblebeeBat/FlyingFox
-
+https://github.com/gjaldon/base58check
 
 
