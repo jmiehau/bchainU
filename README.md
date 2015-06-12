@@ -12,4 +12,6 @@ https://github.com/justinlynn/bitcoin-ex
 https://github.com/BumblebeeBat/FlyingFox
 https://github.com/gjaldon/base58check
 
+#Ethereum 
+https://github.com/ethereum/dapp-bin
 
