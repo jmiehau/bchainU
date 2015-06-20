@@ -25,9 +25,13 @@ https://github.com/gjaldon/base58check
 #Ethereum 
 https://github.com/ethereum/dapp-bin
 
-https://eng.erisindustries.com/tutorials/2015/03/11/solidity-1/
-
 https://docs.google.com/spreadsheets/d/1VdRMFENPzjL2V-vZhcc_aa5-ysf243t5vXlxC2b054g/edit?pli=1#gid=0
+
+https://eng.erisindustries.com/tutorials/2015/03/11/solidity-1/
 
 #Sidechains and Lightning networks
 http://rusty.ozlabs.org/?p=450
+
+#IDE and tools
+http://www.followthecoin.com/build-bitcoin-script-interpreter-javascript/
+
