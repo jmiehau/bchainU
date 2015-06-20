@@ -12,6 +12,9 @@ http://blog.chain.com/post/95218566791/the-math-behind-bitcoin
 
 http://www.siliconian.com/blog/16-bitcoin-blockchain/22-deconstructing-bitcoin-transactions
 
+#Interesting Stuff
+http://www.followthecoin.com/build-bitcoin-script-interpreter-javascript/
+
 #Elixir Blockchain
 https://github.com/justinlynn/bitcoin-ex
 
