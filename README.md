@@ -45,4 +45,7 @@ http://www.brainwallet.org
 
 http://www.bitaddress.org
 
+http://www.bit2factor.org
+
+
 
