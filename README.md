@@ -41,3 +41,5 @@ http://rusty.ozlabs.org/?p=450
 #IDE and tools
 http://www.followthecoin.com/build-bitcoin-script-interpreter-javascript/
 
+http://www.brainwallet.org
+
