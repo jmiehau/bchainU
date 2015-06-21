@@ -47,5 +47,7 @@ http://www.bitaddress.org
 
 http://www.bit2factor.org
 
+https://dcpos.github.io/bip39/
+
 
 
