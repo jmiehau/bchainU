@@ -15,6 +15,8 @@ http://blog.chain.com/post/95218566791/the-math-behind-bitcoin
 
 http://www.siliconian.com/blog/16-bitcoin-blockchain/22-deconstructing-bitcoin-transactions
 
+http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html
+
 #Transaction Scripts
 http://www.royalforkblog.com/
 
