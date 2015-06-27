@@ -56,5 +56,9 @@ http://www.bit2factor.org
 
 https://dcpos.github.io/bip39/
 
+#Other stuff
+
+https://www.igvita.com/2014/05/05/minimum-viable-block-chain/
+
 
 
