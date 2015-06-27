@@ -32,6 +32,8 @@ https://github.com/BumblebeeBat/FlyingFox
 
 https://github.com/gjaldon/base58check
 
+https://github.com/hyperledger/
+
 #Ethereum 
 https://github.com/ethereum/dapp-bin
 
