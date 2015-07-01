@@ -21,6 +21,8 @@ http://www.siliconian.com/blog/16-bitcoin-blockchain/22-deconstructing-bitcoin-t
 
 http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html
 
+http://cdn.intechopen.com/pdfs-wm/29704.pdf
+
 #Transaction Scripts
 http://www.royalforkblog.com/
 
@@ -63,6 +65,9 @@ https://dcpos.github.io/bip39/
 #Other stuff
 
 https://www.igvita.com/2014/05/05/minimum-viable-block-chain/
+
+#Online Courses
+http://wiki.crypto.rub.de/Buch/movies.php#
 
 
 
