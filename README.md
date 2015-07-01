@@ -6,6 +6,8 @@ http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-in
 
 https://www.youtube.com/watch?v=kzyLW44Ve2k&feature=youtu.be 
 
+https://github.com/indutny/elliptic
+
 #Merkel Trees
 http://danieloshea.com/2011/12/07/merkle-tree.html
 
