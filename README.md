@@ -68,8 +68,11 @@ https://dcpos.github.io/bip39/
 
 https://www.igvita.com/2014/05/05/minimum-viable-block-chain/
 
+http://quartzjer.github.io/pennybank/
+
 #Online Courses
 http://wiki.crypto.rub.de/Buch/movies.php#
+
 
 
 
