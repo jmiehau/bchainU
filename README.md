@@ -83,6 +83,8 @@ http://www.slideshare.net/MrCollectrix/the-distributed-ledger-landscape
 - [Commonwealth Bank](http://www.newsbtc.com/2015/06/01/commonwealth-bank-of-australia-to-work-with-ripple-labs/)
 - [BNP Paribas] (http://securities.bnpparibas.com/quintessence/hot-topics/beyond/bitcoin-and-blockchain-what-you.html#.VZtjlHUVhBf)
 - [Singapore central bank ](http://www.coindesk.com/singapores-central-bank-backs-blockchain-project-with-225m-fintech-plan/)
+- [First Data](http://www.forbes.com/sites/laurashin/2015/06/17/why-the-bitcoin-blockchain-could-make-gift-cards-a-consumer-favorite-even-more-beloved/)
+- [First Data Gyft](https://medium.com/@giyom/building-gift-cards-2-0-on-the-block-chain-3ae9e7cf4152)
 
 #Ethereum 
 - [Dapps](https://github.com/ethereum/dapp-bin)
