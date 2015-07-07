@@ -79,9 +79,8 @@ http://quartzjer.github.io/pennybank/
 http://www.slideshare.net/MrCollectrix/the-distributed-ledger-landscape
 
 #Online Courses
-http://wiki.crypto.rub.de/Buch/movies.php#
-
-https://www.coursera.org/course/bitcointech
+- [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
+- [Coursera](https://www.coursera.org/course/bitcointech)
 
 #Blockchain in Fintech
  
