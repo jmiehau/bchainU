@@ -87,24 +87,15 @@ https://www.coursera.org/course/bitcointech
  
 - [Citibank](http://cointelegraph.com/news/114717/citi-develops-3-blockchains-with-own-citicoin-token)
 - [Bny Mellon](http://blogs.wsj.com/cio/2015/04/05/bny-mellon-explores-bitcoins-potential/)
-
 - [Lloyd's](http://www.coindesk.com/bitcoin-and-blockchain-up-for-debate-at-futuremoney-conference/)
-
 - [UBS bank](http://blogs.wsj.com/digits/2015/04/02/ubs-to-open-blockchain-research-lab-in-london/)
-
 - [DBS bank](http://bravenewcoin.com/news/dbs-bank-to-host-blockchain-hackathon/)
-
 - [USAA](http://www.coindesk.com/usaa-blockchain-technology-decentralize-operations/)
-
 - [NASDAQ](http://www.nasdaq.com/press-release/nasdaq-launches-enterprisewide-blockchain-technology-initiative-20150511-00485)
-
 - [RBS Bank](http://www.coindesk.com/rbs-trials-ripple-part-3-5-billion-tech-revamp/)
-
 - [Fidor Bank](http://www.coindesk.com/fidor-becomes-first-bank-to-use-ripple-payment-protocol/)
-
 - [ANZ Bank](http://www.newsbtc.com/2015/06/09/westpac-and-anz-join-ripple-labs-bandwagon-with-cba/)
-
 - [Commonwealth Bank](http://www.newsbtc.com/2015/06/01/commonwealth-bank-of-australia-to-work-with-ripple-labs/)
-
+- [BNP Paribas] (http://securities.bnpparibas.com/quintessence/hot-topics/beyond/bitcoin-and-blockchain-what-you.html#.VZtjlHUVhBf)
 
 
