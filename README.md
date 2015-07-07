@@ -80,9 +80,28 @@ http://wiki.crypto.rub.de/Buch/movies.php#
 https://www.coursera.org/course/bitcointech
 
 #Blockchain in Fintech
-#Citibank 
+ 
 http://cointelegraph.com/news/114717/citi-develops-3-blockchains-with-own-citicoin-token
-#BNY Mellon
+
 http://blogs.wsj.com/cio/2015/04/05/bny-mellon-explores-bitcoins-potential/
+
+http://www.coindesk.com/bitcoin-and-blockchain-up-for-debate-at-futuremoney-conference/
+
+http://blogs.wsj.com/digits/2015/04/02/ubs-to-open-blockchain-research-lab-in-london/
+
+http://bravenewcoin.com/news/dbs-bank-to-host-blockchain-hackathon/
+
+http://www.coindesk.com/usaa-blockchain-technology-decentralize-operations/
+
+http://www.nasdaq.com/press-release/nasdaq-launches-enterprisewide-blockchain-technology-initiative-20150511-00485
+
+http://www.coindesk.com/rbs-trials-ripple-part-3-5-billion-tech-revamp/
+
+http://www.coindesk.com/fidor-becomes-first-bank-to-use-ripple-payment-protocol/
+
+http://www.newsbtc.com/2015/06/09/westpac-and-anz-join-ripple-labs-bandwagon-with-cba/
+
+http://www.newsbtc.com/2015/06/01/commonwealth-bank-of-australia-to-work-with-ripple-labs/
+
 
 
