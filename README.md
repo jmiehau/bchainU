@@ -13,6 +13,10 @@ http://www.royalforkblog.com/2014/09/04/ecc/
 #Merkel Trees
 http://danieloshea.com/2011/12/07/merkle-tree.html
 
+https://www.youtube.com/watch?v=gUwXCt1qkBU
+
+http://www.marcoyuen.com/articles/2014/02/01/merkle-tree.html
+
 
 #Math 
 http://quashnick.net/geek_stuff/HEX2DEC.html
