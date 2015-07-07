@@ -85,7 +85,7 @@ https://www.coursera.org/course/bitcointech
 
 #Blockchain in Fintech
  
-http://cointelegraph.com/news/114717/citi-develops-3-blockchains-with-own-citicoin-token
+[citibank](http://cointelegraph.com/news/114717/citi-develops-3-blockchains-with-own-citicoin-token)
 
 http://blogs.wsj.com/cio/2015/04/05/bny-mellon-explores-bitcoins-potential/
 
