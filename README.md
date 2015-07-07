@@ -97,5 +97,5 @@ http://www.slideshare.net/MrCollectrix/the-distributed-ledger-landscape
 - [State of Dapps](http://www.slideshare.net/tomoakisato35/dappsmedia-state-of-the-dapps-ethereum-may-2015)
 - [Ethereum 101] (http://www.ethereum101.org/)
 - [Cosomo Solidity](http://meteor-dapp-cosmo.meteor.com/)
-- 
+
 
