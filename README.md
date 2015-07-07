@@ -8,9 +8,9 @@ Reading list and useful links
 - [Royal fork blog](http://www.royalforkblog.com/2014/09/04/ecc/)
 
 #Merkel Trees
-- [danileloesha](http://danieloshea.com/2011/12/07/merkle-tree.html)
-- [youtube](https://www.youtube.com/watch?v=gUwXCt1qkBU)
-- [marcoyuen article](http://www.marcoyuen.com/articles/2014/02/01/merkle-tree.html)
+- [Danileloesha](http://danieloshea.com/2011/12/07/merkle-tree.html)
+- [Youtube](https://www.youtube.com/watch?v=gUwXCt1qkBU)
+- [Marcoyuen article](http://www.marcoyuen.com/articles/2014/02/01/merkle-tree.html)
 
 #Math 
 http://quashnick.net/geek_stuff/HEX2DEC.html
