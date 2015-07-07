@@ -96,5 +96,5 @@ http://www.slideshare.net/MrCollectrix/the-distributed-ledger-landscape
 - [ANZ Bank](http://www.newsbtc.com/2015/06/09/westpac-and-anz-join-ripple-labs-bandwagon-with-cba/)
 - [Commonwealth Bank](http://www.newsbtc.com/2015/06/01/commonwealth-bank-of-australia-to-work-with-ripple-labs/)
 - [BNP Paribas] (http://securities.bnpparibas.com/quintessence/hot-topics/beyond/bitcoin-and-blockchain-what-you.html#.VZtjlHUVhBf)
-
+- [Singapore central bank ](http://www.coindesk.com/singapores-central-bank-backs-blockchain-project-with-225m-fintech-plan/)
 
