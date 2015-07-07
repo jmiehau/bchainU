@@ -92,4 +92,15 @@ http://www.slideshare.net/MrCollectrix/the-distributed-ledger-landscape
 - [Ethereum 101] (http://www.ethereum101.org/)
 - [Cosomo Solidity](http://meteor-dapp-cosmo.meteor.com/)
 
+#Academia
+- [Brians Blog](http://suitpossum.blogspot.com/2014/12/academic-bitcoin-research.html)
+- [Stanford](http://bitcoin.stanford.edu/)
+- [Enigma MIT](http://enigma.media.mit.edu/)
+- [MIT digital currency initiative](https://medium.com/mit-media-lab-digital-currency-initiative/launching-a-digital-currency-initiative-238fc678aba2)
+- [Harvard Business Review](https://hbr.org/2015/01/the-tech-trends-you-cant-ignore-in-2015)
+- [Princenton](https://freedom-to-tinker.com/blog/randomwalker/nine-awesome-bitcoin-projects-at-princeton/)
+- [Tsinghua University](http://www.prnewswire.com/news-releases/tsinghua-university-launches-digital-assets-research-initiative-300072170.html)
+- [encrptomedia](http://encryptopedia.com/)
+- [Awesome List](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/htmlview?pli=1)
+
 
