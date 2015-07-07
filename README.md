@@ -2,21 +2,15 @@
 Reading list and useful links
 
 #Elliptic Curves  
-http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/
-
-https://www.youtube.com/watch?v=kzyLW44Ve2k&feature=youtu.be 
-
-https://github.com/indutny/elliptic
-
-http://www.royalforkblog.com/2014/09/04/ecc/
+- [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
+- [Elliptic curve](https://www.youtube.com/watch?v=kzyLW44Ve2k&feature=youtu.be)
+- [Elliptic curve in node](https://github.com/indutny/elliptic)
+- [Royal fork blog](http://www.royalforkblog.com/2014/09/04/ecc/)
 
 #Merkel Trees
-http://danieloshea.com/2011/12/07/merkle-tree.html
-
-https://www.youtube.com/watch?v=gUwXCt1qkBU
-
-http://www.marcoyuen.com/articles/2014/02/01/merkle-tree.html
-
+- [danileloesha](http://danieloshea.com/2011/12/07/merkle-tree.html)
+- [youtube](https://www.youtube.com/watch?v=gUwXCt1qkBU)
+- [marcoyuen article](http://www.marcoyuen.com/articles/2014/02/01/merkle-tree.html)
 
 #Math 
 http://quashnick.net/geek_stuff/HEX2DEC.html
