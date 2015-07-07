@@ -48,14 +48,6 @@ https://github.com/gjaldon/base58check
 
 https://github.com/hyperledger/
 
-#Ethereum 
-https://github.com/ethereum/dapp-bin
-
-https://docs.google.com/spreadsheets/d/1VdRMFENPzjL2V-vZhcc_aa5-ysf243t5vXlxC2b054g/edit?pli=1#gid=0
-
-https://eng.erisindustries.com/tutorials/2015/03/11/solidity-1/
-
-http://www.slideshare.net/tomoakisato35/dappsmedia-state-of-the-dapps-ethereum-may-2015
 #Sidechains and Lightning networks
 http://rusty.ozlabs.org/?p=450
 
@@ -97,4 +89,13 @@ http://www.slideshare.net/MrCollectrix/the-distributed-ledger-landscape
 - [Commonwealth Bank](http://www.newsbtc.com/2015/06/01/commonwealth-bank-of-australia-to-work-with-ripple-labs/)
 - [BNP Paribas] (http://securities.bnpparibas.com/quintessence/hot-topics/beyond/bitcoin-and-blockchain-what-you.html#.VZtjlHUVhBf)
 - [Singapore central bank ](http://www.coindesk.com/singapores-central-bank-backs-blockchain-project-with-225m-fintech-plan/)
+
+#Ethereum 
+- [Dapps](https://github.com/ethereum/dapp-bin)
+- [Dapps list](https://docs.google.com/spreadsheets/d/1VdRMFENPzjL2V-vZhcc_aa5-ysf243t5vXlxC2b054g/edit?pli=1#gid=0)
+- [Solidity](https://eng.erisindustries.com/tutorials/2015/03/11/solidity-1/)
+- [State of Dapps](http://www.slideshare.net/tomoakisato35/dappsmedia-state-of-the-dapps-ethereum-may-2015)
+- [Ethereum 101] (http://www.ethereum101.org/)
+- [Cosomo Solidity](http://meteor-dapp-cosmo.meteor.com/)
+- 
 
