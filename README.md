@@ -79,6 +79,8 @@ http://wiki.crypto.rub.de/Buch/movies.php#
 
 https://www.coursera.org/course/bitcointech
 
+#Blockchain in Fintech
+#Citibank https://www.coursera.org/course/bitcointech
 
 
 
