@@ -72,8 +72,12 @@ https://www.igvita.com/2014/05/05/minimum-viable-block-chain/
 
 http://quartzjer.github.io/pennybank/
 
+http://www.slideshare.net/MrCollectrix/the-distributed-ledger-landscape
+
 #Online Courses
 http://wiki.crypto.rub.de/Buch/movies.php#
+
+https://www.coursera.org/course/bitcointech
 
 
 
