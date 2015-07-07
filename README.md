@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=kzyLW44Ve2k&feature=youtu.be
 
 https://github.com/indutny/elliptic
 
+http://www.royalforkblog.com/2014/09/04/ecc/
+
 #Merkel Trees
 http://danieloshea.com/2011/12/07/merkle-tree.html
 
