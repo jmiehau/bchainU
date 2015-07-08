@@ -13,25 +13,15 @@ Reading list and useful links
 - [Marcoyuen article](http://www.marcoyuen.com/articles/2014/02/01/merkle-tree.html)
 
 #Math 
-http://quashnick.net/geek_stuff/HEX2DEC.html
-
-http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html 
-
-http://blog.chain.com/post/95218566791/the-math-behind-bitcoin
-
-http://www.siliconian.com/blog/16-bitcoin-blockchain/22-deconstructing-bitcoin-transactions
-
-http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html
-
-http://cdn.intechopen.com/pdfs-wm/29704.pdf
+- [Hex tutorial](http://quashnick.net/geek_stuff/HEX2DEC.html)
+- [Bitcoin the hardway](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
+- [Math behind bitcoin](http://blog.chain.com/post/95218566791/the-math-behind-bitcoin)
+- [Desconstructing Transactions](http://www.siliconian.com/blog/16-bitcoin-blockchain/22-deconstructing-bitcoin-transactions)
+- [Endianess](http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html)
 
 #Transaction Scripts
-http://www.royalforkblog.com/
-
-http://davidederosa.com/basic-blockchain-programming/
-
-#Interesting Stuff
-http://www.followthecoin.com/build-bitcoin-script-interpreter-javascript/
+- [Transaction Scripts](http://www.royalforkblog.com/2014/11/20/txn-demo/)
+- [Basic Blockchain Programming](http://davidederosa.com/basic-blockchain-programming/)
 
 #Elixir Blockchain
 https://github.com/justinlynn/bitcoin-ex
@@ -46,23 +36,16 @@ https://github.com/hyperledger/
 http://rusty.ozlabs.org/?p=450
 
 #IDE and tools
-http://www.followthecoin.com/build-bitcoin-script-interpreter-javascript/
-
-http://www.brainwallet.org
-
-http://www.bitaddress.org
-
-http://www.bit2factor.org
-
-https://dcpos.github.io/bip39/
+- [Javacript Interpreter](http://www.followthecoin.com/build-bitcoin-script-interpreter-javascript/)
+- [Brain Wallet](http://www.brainwallet.org)
+- [Bitaddress](http://www.bitaddress.org)
+- [Bit2Factor](http://www.bit2factor.org)
+- [BIP39](https://dcpos.github.io/bip39/)
 
 #Other stuff
-
-https://www.igvita.com/2014/05/05/minimum-viable-block-chain/
-
-http://quartzjer.github.io/pennybank/
-
-http://www.slideshare.net/MrCollectrix/the-distributed-ledger-landscape
+- [Minimal Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
+- [Microtransaction](http://quartzjer.github.io/pennybank/)
+- [Tim Swanson slides](http://www.slideshare.net/MrCollectrix/the-distributed-ledger-landscape)
 
 #Online Courses
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
