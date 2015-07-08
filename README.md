@@ -44,6 +44,8 @@ http://rusty.ozlabs.org/?p=450
 - [Minimal Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
 - [Microtransaction](http://quartzjer.github.io/pennybank/)
 - [Tim Swanson slides](http://www.slideshare.net/MrCollectrix/the-distributed-ledger-landscape)
+- [Distributed ledger](http://www.fifthmoment.com/)
+- [IEE Article](http://spectrum.ieee.org/computing/networks/the-future-of-the-web-looks-a-lot-like-bitcoin)
 
 #Online Courses
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
