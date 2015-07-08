@@ -86,6 +86,9 @@ http://rusty.ozlabs.org/?p=450
 - [encrptomedia](http://encryptopedia.com/)
 - [Awesome List](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/htmlview?pli=1)
 
+#Presentations from Cohort-3
+-  [Bryan X](https://www.dropbox.com/s/b3dav3kaofjwx8h/Bitwise%20Bitcoin-%20Transactions%2C%20Scripts%20and%20Blocks.pdf?dl=0)
+
 #Elixir Language and the  Blockchain
 - [Bitcoin Implementation](https://github.com/justinlynn/bitcoin-ex)
 - [FlyingFox](https://github.com/BumblebeeBat/FlyingFox)
