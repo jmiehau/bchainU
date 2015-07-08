@@ -22,11 +22,13 @@ Reading list and useful links
 - [Youtube](https://www.youtube.com/watch?v=gUwXCt1qkBU)
 - [Marcoyuen article](http://www.marcoyuen.com/articles/2014/02/01/merkle-tree.html)
 
-
-
 #Transaction Scripts
 - [Transaction Scripts](http://www.royalforkblog.com/2014/11/20/txn-demo/)
 - [Basic Blockchain Programming](http://davidederosa.com/basic-blockchain-programming/)
+
+#Bitcoin Mining
+- [Mining the hardway](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
+- [Miners](http://cointext.com/what-problem-is-solved-by-bitcoin-miners/)
 
 #Sidechains and Lightning networks
 http://rusty.ozlabs.org/?p=450
