@@ -1,16 +1,14 @@
 # bchainU
 Reading list and useful links
 
+#Start here..
+- [Crypography](http://blog.bettercrypto.com/?page_id=57)
+
 #Elliptic Curves  
 - [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 - [Elliptic curve](https://www.youtube.com/watch?v=kzyLW44Ve2k&feature=youtu.be)
 - [Elliptic curve in node](https://github.com/indutny/elliptic)
 - [Royal fork blog](http://www.royalforkblog.com/2014/09/04/ecc/)
-
-#Merkel Trees
-- [Danileloesha](http://danieloshea.com/2011/12/07/merkle-tree.html)
-- [Youtube](https://www.youtube.com/watch?v=gUwXCt1qkBU)
-- [Marcoyuen article](http://www.marcoyuen.com/articles/2014/02/01/merkle-tree.html)
 
 #Math 
 - [Hex tutorial](http://quashnick.net/geek_stuff/HEX2DEC.html)
@@ -19,18 +17,16 @@ Reading list and useful links
 - [Desconstructing Transactions](http://www.siliconian.com/blog/16-bitcoin-blockchain/22-deconstructing-bitcoin-transactions)
 - [Endianess](http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html)
 
+#Merkel Trees
+- [Danileloesha](http://danieloshea.com/2011/12/07/merkle-tree.html)
+- [Youtube](https://www.youtube.com/watch?v=gUwXCt1qkBU)
+- [Marcoyuen article](http://www.marcoyuen.com/articles/2014/02/01/merkle-tree.html)
+
+
+
 #Transaction Scripts
 - [Transaction Scripts](http://www.royalforkblog.com/2014/11/20/txn-demo/)
 - [Basic Blockchain Programming](http://davidederosa.com/basic-blockchain-programming/)
-
-#Elixir Blockchain
-https://github.com/justinlynn/bitcoin-ex
-
-https://github.com/BumblebeeBat/FlyingFox
-
-https://github.com/gjaldon/base58check
-
-https://github.com/hyperledger/
 
 #Sidechains and Lightning networks
 http://rusty.ozlabs.org/?p=450
@@ -88,4 +84,8 @@ http://rusty.ozlabs.org/?p=450
 - [encrptomedia](http://encryptopedia.com/)
 - [Awesome List](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/htmlview?pli=1)
 
-
+#Elixir Language and the  Blockchain
+- [Bitcoin Implementation](https://github.com/justinlynn/bitcoin-ex)
+- [FlyingFox](https://github.com/BumblebeeBat/FlyingFox)
+- [Base58Check](https://github.com/gjaldon/base58check)
+- [HyperLedger](https://github.com/hyperledger/)
