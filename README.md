@@ -53,7 +53,6 @@ Reading list and useful links
 - [Coursera](https://www.coursera.org/course/bitcointech)
 
 #Blockchain in Banks and Financial Services
- 
 - [Citibank](http://cointelegraph.com/news/114717/citi-develops-3-blockchains-with-own-citicoin-token)
 - [Bny Mellon](http://blogs.wsj.com/cio/2015/04/05/bny-mellon-explores-bitcoins-potential/)
 - [Lloyd's](http://www.coindesk.com/bitcoin-and-blockchain-up-for-debate-at-futuremoney-conference/)
@@ -69,6 +68,7 @@ Reading list and useful links
 - [First Data](http://www.forbes.com/sites/laurashin/2015/06/17/why-the-bitcoin-blockchain-could-make-gift-cards-a-consumer-favorite-even-more-beloved/)
 - [First Data Gyft](https://medium.com/@giyom/building-gift-cards-2-0-on-the-block-chain-3ae9e7cf4152)
 - [Goldman Sach's report](https://slack-files.com/T04BV3AFV-F06KT10BS-82d72f1308)
+- [ABN-AMRO,ING Bank,Rabo Bank](http://www.cryptosnews.com/?p=997)
 
 #Central Banks/Govts/Institutes
 - [Bank of Englad report](http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q3digitalcurrenciesbitcoin1.pdf)
