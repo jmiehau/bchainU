@@ -34,7 +34,7 @@ Reading list and useful links
 - [Blockstream Sidechain Paper](https://www.blockstream.com/wp-content/uploads/2014/10/sidechains.pdf)
 - [Lightning networks](http://rusty.ozlabs.org/?p=450)
 
-#IDE and tools
+#IDE and Dev tools
 - [Javacript Interpreter](http://www.followthecoin.com/build-bitcoin-script-interpreter-javascript/)
 - [Brain Wallet](http://www.brainwallet.org)
 - [Bitaddress](http://www.bitaddress.org)
@@ -89,6 +89,7 @@ Reading list and useful links
 - [State of Dapps](http://www.slideshare.net/tomoakisato35/dappsmedia-state-of-the-dapps-ethereum-may-2015)
 - [Ethereum 101] (http://www.ethereum101.org/)
 - [Cosomo Solidity](http://meteor-dapp-cosmo.meteor.com/)
+- [Ethereum Gas Analysis](https://github.com/LeastAuthority/ethereum-analyses)
 
 #Academia
 - [Brians Blog](http://suitpossum.blogspot.com/2014/12/academic-bitcoin-research.html)
