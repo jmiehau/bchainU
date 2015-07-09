@@ -21,13 +21,6 @@ Reading list and useful links
 - [Elliptic curve in node](https://github.com/indutny/elliptic)
 - [Royal fork blog](http://www.royalforkblog.com/2014/09/04/ecc/)
 
-#Math 
-- [Hex tutorial](http://quashnick.net/geek_stuff/HEX2DEC.html)
-- [Bitcoin the hardway](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
-- [Math behind bitcoin](http://blog.chain.com/post/95218566791/the-math-behind-bitcoin)
-- [Desconstructing Transactions](http://www.siliconian.com/blog/16-bitcoin-blockchain/22-deconstructing-bitcoin-transactions)
-- [Endianess](http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html)
-
 #Merkel Trees
 - [Danileloesha](http://danieloshea.com/2011/12/07/merkle-tree.html)
 - [Youtube](https://www.youtube.com/watch?v=gUwXCt1qkBU)
