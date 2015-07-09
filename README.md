@@ -51,7 +51,7 @@ Reading list and useful links
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
 - [Coursera](https://www.coursera.org/course/bitcointech)
 
-#Blockchain in Fintech
+#Blockchain in Banks and Financial Services
  
 - [Citibank](http://cointelegraph.com/news/114717/citi-develops-3-blockchains-with-own-citicoin-token)
 - [Bny Mellon](http://blogs.wsj.com/cio/2015/04/05/bny-mellon-explores-bitcoins-potential/)
@@ -65,12 +65,20 @@ Reading list and useful links
 - [ANZ Bank](http://www.newsbtc.com/2015/06/09/westpac-and-anz-join-ripple-labs-bandwagon-with-cba/)
 - [Commonwealth Bank](http://www.newsbtc.com/2015/06/01/commonwealth-bank-of-australia-to-work-with-ripple-labs/)
 - [BNP Paribas] (http://securities.bnpparibas.com/quintessence/hot-topics/beyond/bitcoin-and-blockchain-what-you.html#.VZtjlHUVhBf)
-- [Singapore central bank ](http://www.coindesk.com/singapores-central-bank-backs-blockchain-project-with-225m-fintech-plan/)
 - [First Data](http://www.forbes.com/sites/laurashin/2015/06/17/why-the-bitcoin-blockchain-could-make-gift-cards-a-consumer-favorite-even-more-beloved/)
 - [First Data Gyft](https://medium.com/@giyom/building-gift-cards-2-0-on-the-block-chain-3ae9e7cf4152)
 - [Goldman Sach's report](https://slack-files.com/T04BV3AFV-F06KT10BS-82d72f1308)
+
+#Central Banks/Govts/Institutes
 - [Bank of Englad report](http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q3digitalcurrenciesbitcoin1.pdf)
-- 
+- [UK Payment council](http://www.ukdca.org/downloads/UKDCA_HMT_Digital_Currencies_031214.pdf)
+- [Singapore central bank ](http://www.coindesk.com/singapores-central-bank-backs-blockchain-project-with-225m-fintech-plan/)
+- [CFA Institute](http://www.cfainstitute.org/learning/products/multimedia/Pages/120025.aspx?WPID=BrowseProducts)
+
+#Legal and Regulations
+- [Bitcoin law](http://www.coindesk.com/bitcoin-law-what-us-businesses-need-to-know/)
+- [Money transmission License](http://www.coindesk.com/bitcoin-law-money-transmission-state-level-us/)
+- [Bitcoin Law](http://www.coindesk.com/bitcoin-law-money-transmission-compliance-avoidance/)
 
 #Ethereum 
 - [Dapps](https://github.com/ethereum/dapp-bin)
@@ -103,7 +111,3 @@ Reading list and useful links
 - [Base58Check](https://github.com/gjaldon/base58check)
 - [HyperLedger](https://github.com/hyperledger/)
 
-#Legal and Regulations
-- [Bitcoin law](http://www.coindesk.com/bitcoin-law-what-us-businesses-need-to-know/)
-- [Money transmission License](http://www.coindesk.com/bitcoin-law-money-transmission-state-level-us/)
-- [Bitcoin Law](http://www.coindesk.com/bitcoin-law-money-transmission-compliance-avoidance/)
