@@ -31,7 +31,8 @@ Reading list and useful links
 - [Miners](http://cointext.com/what-problem-is-solved-by-bitcoin-miners/)
 
 #Sidechains and Lightning networks
-- [Lightning networks]( nhttp://rusty.ozlabs.org/?p=450)
+- [Blockstream Sidechain Paper](https://www.blockstream.com/wp-content/uploads/2014/10/sidechains.pdf)
+- [Lightning networks](http://rusty.ozlabs.org/?p=450)
 
 #IDE and tools
 - [Javacript Interpreter](http://www.followthecoin.com/build-bitcoin-script-interpreter-javascript/)
@@ -73,6 +74,7 @@ Reading list and useful links
 - [Bank of Englad report](http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q3digitalcurrenciesbitcoin1.pdf)
 - [UK Payment council](http://www.ukdca.org/downloads/UKDCA_HMT_Digital_Currencies_031214.pdf)
 - [Singapore central bank ](http://www.coindesk.com/singapores-central-bank-backs-blockchain-project-with-225m-fintech-plan/)
+- [Netherlands Central bank](http://cointelegraph.com/news/113033/ing-other-major-dutch-banks-take-interest-in-blockchain-tech)
 - [CFA Institute](http://www.cfainstitute.org/learning/products/multimedia/Pages/120025.aspx?WPID=BrowseProducts)
 
 #Legal and Regulations
