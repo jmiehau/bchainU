@@ -90,10 +90,17 @@ Reading list and useful links
 
 #Presentations from Cohort-3
 -  [Rayan X](https://www.dropbox.com/s/b3dav3kaofjwx8h/Bitwise%20Bitcoin-%20Transactions%2C%20Scripts%20and%20Blocks.pdf?dl=0)
--  [BlockCypher](https://docs.google.com/presentation/d/12TdNko6IPmOc-zkGV2ve460GbIC4dmHe1woLBmVbk3A/edit?pli=1#slide=id.g58a7e4756_025)
+- [BlockCypher](https://docs.google.com/presentation/d/12TdNko6IPmOc-zkGV2ve460GbIC4dmHe1woLBmVbk3A/edit?pli=1#slide=id.g58a7e4756_025)
+- [Siliconian Transaction Scripts](https://slack-files.com/T04BV3AFV-F06QHM3S9-76e2ba6ae5)
+- [Chris Peel Ethereum](https://slack-files.com/T04BV3AFV-F06L00BCM-2700a2cdb6)
 
 #Elixir Language and the  Blockchain
 - [Bitcoin Implementation](https://github.com/justinlynn/bitcoin-ex)
 - [FlyingFox](https://github.com/BumblebeeBat/FlyingFox)
 - [Base58Check](https://github.com/gjaldon/base58check)
 - [HyperLedger](https://github.com/hyperledger/)
+
+#Legal and Regulations
+- [Bitcoin law](http://www.coindesk.com/bitcoin-law-what-us-businesses-need-to-know/)
+- [Money transmission License](http://www.coindesk.com/bitcoin-law-money-transmission-state-level-us/)
+- [Bitcoin Law](http://www.coindesk.com/bitcoin-law-money-transmission-compliance-avoidance/)
