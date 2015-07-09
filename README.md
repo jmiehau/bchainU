@@ -68,6 +68,9 @@ Reading list and useful links
 - [Singapore central bank ](http://www.coindesk.com/singapores-central-bank-backs-blockchain-project-with-225m-fintech-plan/)
 - [First Data](http://www.forbes.com/sites/laurashin/2015/06/17/why-the-bitcoin-blockchain-could-make-gift-cards-a-consumer-favorite-even-more-beloved/)
 - [First Data Gyft](https://medium.com/@giyom/building-gift-cards-2-0-on-the-block-chain-3ae9e7cf4152)
+- [Goldman Sach's report](https://slack-files.com/T04BV3AFV-F06KT10BS-82d72f1308)
+- [Bank of Englad report](http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q3digitalcurrenciesbitcoin1.pdf)
+- 
 
 #Ethereum 
 - [Dapps](https://github.com/ethereum/dapp-bin)
