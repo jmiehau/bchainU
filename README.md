@@ -1,6 +1,6 @@
-...
+
 ![Blockchain](https://bitcoinmagazine.com/wp-content/uploads/2013/03/blkfork1.jpg)
-...
+
 
 # bchainU
 Reading list and useful links
