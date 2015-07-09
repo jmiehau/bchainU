@@ -8,6 +8,13 @@ Reading list and useful links
 #Start here..
 - [Crypography](http://blog.bettercrypto.com/?page_id=57)
 
+#Math 
+- [Hex tutorial](http://quashnick.net/geek_stuff/HEX2DEC.html)
+- [Hex to Decimal](http://www.rapidtables.com/convert/number/hex-to-decimal.htm)
+- [Bitcoin the hardway](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
+- [Math behind bitcoin](http://blog.chain.com/post/95218566791/the-math-behind-bitcoin)
+- [Endianess](http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html)
+
 #Elliptic Curves  
 - [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 - [Elliptic curve](https://www.youtube.com/watch?v=kzyLW44Ve2k&feature=youtu.be)
@@ -29,6 +36,7 @@ Reading list and useful links
 #Transaction Scripts
 - [Transaction Scripts](http://www.royalforkblog.com/2014/11/20/txn-demo/)
 - [Basic Blockchain Programming](http://davidederosa.com/basic-blockchain-programming/)
+- [Desconstructing Transactions](http://www.siliconian.com/blog/16-bitcoin-blockchain/22-deconstructing-bitcoin-transactions)
 
 #Bitcoin Mining
 - [Mining the hardway](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
