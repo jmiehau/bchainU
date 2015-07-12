@@ -104,6 +104,7 @@ Reading list and useful links
 - [Harvard Business Review](https://hbr.org/2015/01/the-tech-trends-you-cant-ignore-in-2015)
 - [Princenton](https://freedom-to-tinker.com/blog/randomwalker/nine-awesome-bitcoin-projects-at-princeton/)
 - [Tsinghua University](http://www.prnewswire.com/news-releases/tsinghua-university-launches-digital-assets-research-initiative-300072170.html)
+- [Yale CS](http://dedis.cs.yale.edu/dissent/pres/150610-nist-cothorities.pdf)
 - [encrptomedia](http://encryptopedia.com/)
 - [Awesome List](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/htmlview?pli=1)
 
