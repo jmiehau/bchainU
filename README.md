@@ -81,6 +81,8 @@ Reading list and useful links
 - [Singapore central bank ](http://www.coindesk.com/singapores-central-bank-backs-blockchain-project-with-225m-fintech-plan/)
 - [Netherlands Central bank](http://cointelegraph.com/news/113033/ing-other-major-dutch-banks-take-interest-in-blockchain-tech)
 - [CFA Institute](http://www.cfainstitute.org/learning/products/multimedia/Pages/120025.aspx?WPID=BrowseProducts)
+- [Federal Reserve](http://www.federalreserve.gov/econresdata/feds/2014/files/2014104pap.pdf)
+
 
 #Legal and Regulations
 - [Bitcoin law](http://www.coindesk.com/bitcoin-law-what-us-businesses-need-to-know/)
