@@ -74,6 +74,10 @@ Reading list and useful links
 - [First Data Gyft](https://medium.com/@giyom/building-gift-cards-2-0-on-the-block-chain-3ae9e7cf4152)
 - [Goldman Sach's report](https://slack-files.com/T04BV3AFV-F06KT10BS-82d72f1308)
 - [ABN-AMRO,ING Bank,Rabo Bank](http://www.cryptosnews.com/?p=997)
+- [Deloitte](http://www.coindesk.com/deloitte-blockchain-auditing-consulting/)
+- [Deloitte Rubix](http://rubixbydeloitte.com/)
+- [Standard Chartard](https://www.linkedin.com/pulse/blockchain-disruptive-force-good-anju-patwardhan)
+
 
 #Central Banks/Govts/Institutes
 - [Bank of Englad report](http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q3digitalcurrenciesbitcoin1.pdf)
