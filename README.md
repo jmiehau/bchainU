@@ -86,7 +86,7 @@ Reading list and useful links
 - [Netherlands Central bank](http://cointelegraph.com/news/113033/ing-other-major-dutch-banks-take-interest-in-blockchain-tech)
 - [CFA Institute](http://www.cfainstitute.org/learning/products/multimedia/Pages/120025.aspx?WPID=BrowseProducts)
 - [Federal Reserve](http://www.federalreserve.gov/econresdata/feds/2014/files/2014104pap.pdf)
-
+- [Another List](https://www.coingecko.com/buzz/16-banks-experimenting-with-blockchain-technology?locale=en)
 
 #Legal and Regulations
 - [Bitcoin law](http://www.coindesk.com/bitcoin-law-what-us-businesses-need-to-know/)
