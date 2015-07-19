@@ -113,7 +113,11 @@ Reading list and useful links
 - [Yale CS](http://dedis.cs.yale.edu/dissent/pres/150610-nist-cothorities.pdf)
 - [encrptomedia](http://encryptopedia.com/)
 - [Awesome List](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/htmlview?pli=1)
+
+#Venture Capital
 - [VC Fund](http://www.coindesk.com/10-vc-firms-bullish-on-bitcoins-potential/)
+- [Ledra Captial](http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series)
+
 
 
 #Presentations from Cohort-3
