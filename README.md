@@ -105,7 +105,7 @@ Reading list and useful links
 
 #Ethereum Dev Tools
 - [Ether Party](http://etherparty.io/)
-- 
+
 
 #Academia
 - [Brians Blog](http://suitpossum.blogspot.com/2014/12/academic-bitcoin-research.html)
@@ -129,7 +129,7 @@ Reading list and useful links
 - [Siliconian Transaction Scripts](https://slack-files.com/T04BV3AFV-F06QHM3S9-76e2ba6ae5)
 - [Chris Peel Ethereum](https://slack-files.com/T04BV3AFV-F06L00BCM-2700a2cdb6)
 - [Christopher Allen](#Christopher Allen's From Blockchain University
-- [Christopher Allen Dev Source](https://github.com/ChristopherA/Blockchain-Developer-Resources))
+- [Christopher Allen Dev Source](https://github.com/ChristopherA/Blockchain-Developer-Resources)
 
 #Elixir Language and the  Blockchain
 - [Bitcoin Implementation](https://github.com/justinlynn/bitcoin-ex)
