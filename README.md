@@ -52,6 +52,8 @@ Reading list and useful links
 - [Tim Swanson slides](http://www.slideshare.net/MrCollectrix/the-distributed-ledger-landscape)
 - [Distributed ledger](http://www.fifthmoment.com/)
 - [IEE Article](http://spectrum.ieee.org/computing/networks/the-future-of-the-web-looks-a-lot-like-bitcoin)
+- [Multi Chains](http://www.multichain.com/)
+
 
 #Online Courses
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
@@ -117,8 +119,6 @@ Reading list and useful links
 #Venture Capital
 - [VC Fund](http://www.coindesk.com/10-vc-firms-bullish-on-bitcoins-potential/)
 - [Ledra Captial](http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series)
-
-
 
 #Presentations from Cohort-3
 -  [Rayan X](https://www.dropbox.com/s/b3dav3kaofjwx8h/Bitwise%20Bitcoin-%20Transactions%2C%20Scripts%20and%20Blocks.pdf?dl=0)
