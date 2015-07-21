@@ -5,6 +5,7 @@
 # bchainU
 Reading list and useful links
 
+
 #Start here..
 - [Crypography](http://blog.bettercrypto.com/?page_id=57)
 
@@ -125,6 +126,8 @@ Reading list and useful links
 - [BlockCypher](https://docs.google.com/presentation/d/12TdNko6IPmOc-zkGV2ve460GbIC4dmHe1woLBmVbk3A/edit?pli=1#slide=id.g58a7e4756_025)
 - [Siliconian Transaction Scripts](https://slack-files.com/T04BV3AFV-F06QHM3S9-76e2ba6ae5)
 - [Chris Peel Ethereum](https://slack-files.com/T04BV3AFV-F06L00BCM-2700a2cdb6)
+- [Christopher Allen](#Christopher Allen's From Blockchain University
+- [Christopher Allen Dev Source](https://github.com/ChristopherA/Blockchain-Developer-Resources))
 
 #Elixir Language and the  Blockchain
 - [Bitcoin Implementation](https://github.com/justinlynn/bitcoin-ex)
