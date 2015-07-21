@@ -1,10 +1,8 @@
 
 ![Blockchain](https://bitcoinmagazine.com/wp-content/uploads/2013/03/blkfork1.jpg)
 
-
 # bchainU
 Reading list and useful links
-
 
 #Start here..
 - [Crypography](http://blog.bettercrypto.com/?page_id=57)
@@ -104,6 +102,10 @@ Reading list and useful links
 - [Ethereum 101] (http://www.ethereum101.org/)
 - [Cosomo Solidity](http://meteor-dapp-cosmo.meteor.com/)
 - [Ethereum Gas Analysis](https://github.com/LeastAuthority/ethereum-analyses)
+
+#Ethereum Dev Tools
+- [Ether Party](http://etherparty.io/)
+- 
 
 #Academia
 - [Brians Blog](http://suitpossum.blogspot.com/2014/12/academic-bitcoin-research.html)
